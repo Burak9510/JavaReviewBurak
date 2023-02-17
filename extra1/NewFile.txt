@@ -1,0 +1,7 @@
+#Burak is waiting for us
+#Mon Dec 26 01:04:32 EST 2022
+Age=30
+FirstName=Burak
+LastName=Ingin
+SSN=125-88-9034
+School=Neotech
